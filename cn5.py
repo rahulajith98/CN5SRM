@@ -25,7 +25,7 @@ class Board(Canvas):
         self.configure(width=550, height=400, bg="Black")
         self.player = 1
         self.colo = "blue"
-        self.p = []
+        self.p =[]
         self.perm = True
         for i in range(0, 340, int(400 / 8)):
             liste_rangee = []
