@@ -1,1 +1,2 @@
-connect 5 game is based on gui
+connect 5 game is a re-imagination of the classic Connect-4 game, with an extra coin requied to win in each direction.
+It is based on Python, with TkInter for GUI.
